@@ -7,4 +7,5 @@ dependencies:
   - pandas
   - bokeh
   - seaborn
+  - erddapy
 
